@@ -1,2 +1,2 @@
-# petprijects
+# petprojects
 я заполню его позже
